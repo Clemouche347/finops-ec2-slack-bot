@@ -1,0 +1,10 @@
+*.zip
+build/
+*.tfstate
+*.tfstate.*
+.terraform/
+.env
+*.pem
+__pycache__/
+*.pyc
+.ruff_cache/
